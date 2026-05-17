@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Downloads folder for PDF/CSV exports -->
+    <external-path name="downloads" path="Download/" />
+    <!-- App-internal cache for temp files -->
+    <cache-path name="cache" path="." />
+    <!-- Files dir -->
+    <files-path name="files" path="." />
+</paths>
